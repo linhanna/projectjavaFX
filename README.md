@@ -19,5 +19,4 @@ Kết nối với database
  6. Chức năng em đang làm và ác chức năng dự định sẽ làm tiếp theo:
  Show dữ liệu cho trang homepage người dùng và nếu có thêm thời gian sẽ làm đăng nhập cho trang admin có liên kết database gồm tên và mật khẩu.
  
- 7. Commit history
- https://github.com/linhanna/projectjavaFX/commits/main/README.md
+ 7. Commit history: [Link](https://github.com/linhanna/projectjavaFX/commits/main/README.md)
