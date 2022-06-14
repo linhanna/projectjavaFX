@@ -6,3 +6,5 @@
 2. Link demo video
 https://drive.google.com/drive/folders/1Dz-w4dL8KnyewavBQWE_ESg1E78X5Wsx
 
+3. Ảnh chụp Entity Relationship Model (ERM) của database
+![image](https://user-images.githubusercontent.com/96755372/173487466-ed548a53-d415-4dfe-ac11-6fa8bbdf3ab8.png)
